@@ -7,6 +7,7 @@ Assuming you have git and maven setup, you can sync, build and test this project
 
 #### Change directories to the project root and compile:
 ```cd zipcode-reduction-demo/zipcodereduction/```
+
 ```mvn compile```
 
 #### to run the unit tests type:
@@ -37,8 +38,11 @@ Assuming you have git and maven setup, you can sync, build and test this project
 #### If you type in an invalid collection you will get an error message, a usage statement and the exception the entry caused.
 
 ```An invalid collection was entered```
+
 ```Enter a collection of one or more pairs of ZIP code values```
+
 ```surrounded by brackets in this format: [94133,94133]```
+
 ```All values should be entered on the same line.```
 
 
